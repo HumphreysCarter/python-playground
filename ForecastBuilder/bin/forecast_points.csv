@@ -1,0 +1,20 @@
+PointLat,PointLon,PointID,PointName,PointRegion,PointType,Verification
+43.81,-76.03,adams,I-81 at Adams,7,NYSDOT,
+43.98,-75.95,arsenal,I-81 at Arsenal St.,7,NYSDOT,KART
+43.44,-76.55,auburn,Auburn,3,NYSDOT,
+43.81,-75.81,barnescorners,Route 177 at Barnes Corners,7,NYSDOT,
+43.18,-76.27,belgium,Belgium,3,NYSDOT,
+43.98,-75.61,carthage,Carthage,7,NYSDOT,
+43.33,-76.10,centralsquare,Central Square,3,NYSDOT,
+44.22,-74.84,cranberrylake,Cranberry Lake,7,NYSDOT,
+43.32,-76.58,hannibal,Hannibal,3,NYSDOT,
+44.15,-75.32,harrisville,Harrisville,7,NYSDOT,
+43.99,-75.94,jcc,Jefferson Community College,7,SCHOOL,
+42.91,-76.11,lafayette,Lafayette,3,NYSDOT,
+43.62,-75.36,lyons falls,Lyons Falls,7,NYSDOT,
+43.71,-76.02,mannsville,Mannsville,7,NYSDOT,
+43.44,-76.55,ocsd,Oswego City School District,3,SCHOOL,
+43.41,-76.13,parish,Parish,3,NYSDOT,
+43.57,-76.13,pulaski,Pulaski,3,NYSDOT,
+43.64,-76.09,sandycreek,Sandy Creek,3,NYSDOT,
+43.11,-76.11,syracuse,Syracuse,3,NYSDOT,KSYR
